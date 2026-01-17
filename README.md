@@ -1,6 +1,7 @@
 upskillCampus - Full Stack Web Development Internship
 
 Project Name: Employee Task Management System
+
 This repository contains the final project code and report for the Industrial Internship provided by upskill Campus (USC) and The IoT Academy in collaboration with UniConverge Technologies Pvt Ltd (UCT).
 Project Overview
 The Employee Task Management System is a full-stack web application designed to solve real-world industrial problems. It automates the process of assigning, tracking, and managing daily tasks for employees, moving away from manual and inefficient tracking methods.
